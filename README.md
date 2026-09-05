@@ -29,58 +29,49 @@ This portfolio highlights academic and independent projects that demonstrate my 
 - **Cloud & Big Data:** Google Cloud Platform (GCP), BigQuery, Pub/Sub, Dataflow, Dataproc, Spark, Hive, Cloud Functions, Cloud Storage
 - **Tools:** Jupyter Notebook, Git, GitHub, VS Code
 
+## Professional Experience
+
+### Data Analyst Intern | WikiCharities
+**August 2026 – Present | Remote | Part-Time**
+
+Supporting the Data & Research team by researching, evaluating, comparing, and documenting publicly available datasets for nonprofit research and future analytical initiatives.
+
+**Focus Areas:** Data Sourcing, Dataset Evaluation, Data Quality Assessment, Metadata Review, Research Documentation, Google Sheets
+
+
+## Certifications & Professional Development
+
+### Google Data Analytics Professional Certificate — Google
+**Status: In Progress**
+
+Developing practical skills across the data analysis lifecycle, including data preparation, cleaning, analysis, visualization, and data-driven decision-making.
+
+**Completed Courses:**
+- Foundations: Data, Data, Everywhere
+- Ask Questions to Make Data-Driven Decisions
+
 
 ## Academic Projects
 
 ### TaxiPulse — Real-Time Big Data Analytics Platform
 
-Developed as a graduate team project using the NYC TLC Yellow Taxi dataset to design an end-to-end cloud analytics architecture combining real-time streaming and batch-processing workflows.
+Graduate team project focused on building an end-to-end cloud analytics architecture using the NYC TLC Yellow Taxi dataset to analyze taxi demand, fares, geographic patterns, and operational trends through real-time streaming and batch processing.
 
-**Key Highlights:**
-
-- Translated the business question of where and when taxi demand is highest into an analytical data pipeline.
-- Used Google BigQuery to analyze large volumes of taxi-trip data.
-- Worked with Cloud Functions, Pub/Sub, Dataflow, BigQuery, and Cloud Storage to support streaming data processing.
-- Used Dataproc, PySpark, and Hive for batch analysis of historical trip data.
-- Analyzed KPIs including trip volume, total fares, average fares, geographic demand, and time-based demand trends.
-- Used scheduled BigQuery aggregations for hourly and daily reporting.
-- Connected BigQuery with Looker Studio to create dashboards and operational scorecards.
-- Identified demand patterns, revenue trends, and low-demand locations that could support fleet allocation and operational decision-making.
-
-**Technologies:** Google Cloud Platform, BigQuery, SQL, Pub/Sub, Dataflow, Dataproc, PySpark, Hive, Cloud Functions, Cloud Storage, Looker Studio
+**Tools:** Google Cloud Platform, BigQuery, SQL, Pub/Sub, Dataflow, Dataproc, PySpark, Hive, Cloud Functions, Cloud Storage, Looker Studio
 
 
 ### Phishing Site Detection Using Machine Learning
 
-Applied supervised machine learning to phishing-URL detection using the PhiUSIIL Phishing URL dataset from the UCI Machine Learning Repository, containing more than 200,000 records and 55 URL-related features.
+Machine-learning project using a dataset of more than 200,000 phishing and legitimate URLs to perform data preprocessing, feature selection, classification modeling, and model evaluation.
 
-**Key Highlights:**
-
-- Prepared the dataset by removing unnecessary fields, encoding categorical information, addressing missing target values, and standardizing numerical features.
-- Performed exploratory data analysis before model development.
-- Applied Recursive Feature Elimination using a Decision Tree classifier.
-- Used Random Forest feature importance as an additional feature-selection technique.
-- Developed and compared Decision Tree, Random Forest, and Support Vector Machine classification models.
-- Evaluated models using accuracy, precision, recall, F1-score, and confusion matrices.
-- Compared model performance across different feature-selection approaches.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Decision Tree, Random Forest, SVM, Feature Selection, Classification Model Evaluation
+**Tools:** Python, Pandas, NumPy, Scikit-learn, Decision Tree, Random Forest, Support Vector Machine (SVM)
 
 
 ### Expense Tracker Application — System & Application Testing
 
-Contributed to the testing of a financial Expense Tracker application designed to manage income, expenditures, transactions, and shared expenses.
+Academic application-testing project focused on validating transaction synchronization, data consistency, financial reporting, and integrated application functionality within a database-backed expense management system.
 
-**Key Highlights:**
-
-- Tested synchronization of transactions between the Expense Tracker application and Splitwise.
-- Validated edited and deleted transactions for consistency across integrated systems.
-- Verified that financial graphs correctly reflected newly added transactions.
-- Created and executed structured functional test cases containing inputs, expected results, actual results, and pass/fail outcomes.
-- Worked with a database-backed application using Angular, Spring Boot, and MySQL.
-- Used JUnit, Jasmine, and Karma within the testing environment.
-
-**Technologies:** MySQL, Angular, Spring Boot, JUnit, Jasmine, Karma
+**Tools:** MySQL, Angular, Spring Boot, JUnit, Jasmine, Karma
 
 ## Contact
 

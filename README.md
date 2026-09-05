@@ -81,3 +81,11 @@ Contributed to the testing of a financial Expense Tracker application designed t
 - Used JUnit, Jasmine, and Karma within the testing environment.
 
 **Technologies:** MySQL, Angular, Spring Boot, JUnit, Jasmine, Karma
+
+## Contact
+
+I am currently seeking Junior / Entry-Level Data Analyst opportunities where I can apply my analytical skills, continue developing professionally, and contribute to data-driven decision-making.
+
+- **GitHub:** [AkashReddyBade](https://github.com/AkashReddyBade)
+- **LinkedIn:** www.linkedin.com/in/akash-bade-0a5615414
+- **Email:** akashreddy0001@gmail.com
